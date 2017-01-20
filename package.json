@@ -26,7 +26,8 @@
     "once": "^1.3.3",
     "parse-listing": "^1.1.3",
     "stream-combiner": "^0.2.2",
-    "unorm": "^1.4.1"
+    "unorm": "^1.4.1",
+    "iconv-lite": "^0.4.15"
   },
   "devDependencies": {
     "concat-stream": "^1.5.0",
